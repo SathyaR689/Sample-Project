@@ -1,0 +1,35 @@
+Robot Class :
+
+	Java class
+	
+	It is a class
+
+	it will perform Keyboard actions
+
+
+
+Robot r = new Robot();
+
+
+
+r.keyPress(KeyEvent.VK_DOWN);
+
+
+
+r.keyRelease(KeyEvent.VK_DOWN);
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+ 
